@@ -1,7 +1,8 @@
-testing line update
+Testing line update
 untesting file
 456
 789.
 Add line
 Commit test
 new branch line
+new line for GUI
